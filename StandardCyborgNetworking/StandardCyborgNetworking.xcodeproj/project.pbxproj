@@ -434,7 +434,7 @@
 		7632DBA823B6C26500B67A7E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = KAW83335BG;
+				DEVELOPMENT_TEAM = U4F3328ATX;
 				INFOPLIST_FILE = StandardCyborgNetworkingTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,7 +450,7 @@
 		7632DBA923B6C26500B67A7E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = KAW83335BG;
+				DEVELOPMENT_TEAM = U4F3328ATX;
 				INFOPLIST_FILE = StandardCyborgNetworkingTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
