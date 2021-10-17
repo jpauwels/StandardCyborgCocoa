@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6C080E594823F7326C4B57FB /* Pods_StandardCyborgExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 01886E50A1E566AC83217EFB /* Pods_StandardCyborgExample.framework */; };
 		7642B7FC21E679E800BC45C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7642B7FB21E679E800BC45C7 /* AppDelegate.swift */; };
 		7642B7FE21E679E800BC45C7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7642B7FD21E679E800BC45C7 /* ViewController.swift */; };
 		7642B80121E679E800BC45C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7642B7FF21E679E800BC45C7 /* Main.storyboard */; };
@@ -26,7 +25,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		01886E50A1E566AC83217EFB /* Pods_StandardCyborgExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StandardCyborgExample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0403BD285ABFBA7F96667BC3 /* Pods-StandardCyborgExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StandardCyborgExample.release.xcconfig"; path = "Target Support Files/Pods-StandardCyborgExample/Pods-StandardCyborgExample.release.xcconfig"; sourceTree = "<group>"; };
 		7642B7F821E679E800BC45C7 /* StandardCyborgExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StandardCyborgExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7642B7FB21E679E800BC45C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -45,7 +43,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6C080E594823F7326C4B57FB /* Pods_StandardCyborgExample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,7 +85,6 @@
 			children = (
 				7642B82221E69CBB00BC45C7 /* StandardCyborgFusion.framework */,
 				7642B81621E69B3400BC45C7 /* StandardCyborgUI.xcodeproj */,
-				01886E50A1E566AC83217EFB /* Pods_StandardCyborgExample.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
