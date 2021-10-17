@@ -36,7 +36,7 @@
 		7642B80521E679E900BC45C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7642B80721E679E900BC45C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7642B81621E69B3400BC45C7 /* StandardCyborgUI.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = StandardCyborgUI.xcodeproj; path = ../StandardCyborgUI/StandardCyborgUI.xcodeproj; sourceTree = "<group>"; };
-		7642B82221E69CBB00BC45C7 /* StandardCyborgFusion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StandardCyborgFusion.framework; path = ../StandardCyborgFusion/StandardCyborgFusion.framework; sourceTree = SOURCE_ROOT; };
+		7642B82221E69CBB00BC45C7 /* StandardCyborgFusion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StandardCyborgFusion.framework; path = ../StandardCyborgFusion/ios/StandardCyborgFusion.framework; sourceTree = SOURCE_ROOT; };
 		FBD3AAC9CA3ACA9DC2D88CEA /* Pods-StandardCyborgExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StandardCyborgExample.debug.xcconfig"; path = "Target Support Files/Pods-StandardCyborgExample/Pods-StandardCyborgExample.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
