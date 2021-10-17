@@ -27,6 +27,7 @@
 		767B3C0F2359034E00138B1E /* SCMetalSimulatorStubs.h in Headers */ = {isa = PBXBuildFile; fileRef = 767B3C0E2359034E00138B1E /* SCMetalSimulatorStubs.h */; };
 		A005B14B2489F16F00165638 /* SCMeshingHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A005B14A2489F16F00165638 /* SCMeshingHelper.swift */; };
 		A080752F22D3B3FF00D1CFD8 /* Bundle+SCUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A080752E22D3B3FF00D1CFD8 /* Bundle+SCUI.swift */; };
+		A3612AF4271CB943008E1335 /* ScenePreviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3612AF3271CB943008E1335 /* ScenePreviewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		767B3C0E2359034E00138B1E /* SCMetalSimulatorStubs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCMetalSimulatorStubs.h; sourceTree = "<group>"; };
 		A005B14A2489F16F00165638 /* SCMeshingHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCMeshingHelper.swift; sourceTree = "<group>"; };
 		A080752E22D3B3FF00D1CFD8 /* Bundle+SCUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle+SCUI.swift"; sourceTree = "<group>"; };
+		A3612AF3271CB943008E1335 /* ScenePreviewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScenePreviewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				7642B82E21E6BA6C00BC45C7 /* Assets.xcassets */,
 				7620D24A21CDACEA008D0095 /* StandardCyborgUI.h */,
 				7642B7D021E4558200BC45C7 /* ScanningViewController.swift */,
+				A3612AF3271CB943008E1335 /* ScenePreviewViewController.swift */,
 				7620D25221CDAD40008D0095 /* CameraManager.swift */,
 				7642B7D221E455AB00BC45C7 /* ShutterButton.swift */,
 				7620D25A21CDAD69008D0095 /* ScanningHapticFeedbackEngine.swift */,
@@ -214,6 +217,7 @@
 				7620D26721CDADA5008D0095 /* PointCloudCommandEncoder.swift in Sources */,
 				7620D26221CDADA5008D0095 /* DrawColorTexture.metal in Sources */,
 				7620D25321CDAD40008D0095 /* CameraManager.swift in Sources */,
+				A3612AF4271CB943008E1335 /* ScenePreviewViewController.swift in Sources */,
 				76751A6522DD9E4E00482EC4 /* NodeToNodeLineNode.swift in Sources */,
 				7642B7D121E4558200BC45C7 /* ScanningViewController.swift in Sources */,
 			);
